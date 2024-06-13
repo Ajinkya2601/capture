@@ -1,10 +1,10 @@
 import React from "react";
 //Import Icons
-import clock from "../img/clock.svg";
-import diaphragm from "../img/diaphragm.svg";
-import money from "../img/money.svg";
-import teamwork from "../img/teamwork.svg";
-import home2 from "../img/home2.png";
+import clock from "../../public/img/clock.svg";
+import diaphragm from "../../public/img/diaphragm.svg";
+import money from "../../public/img/money.svg";
+import teamwork from "../../public/img/teamwork.svg";
+import home2 from '../../public/img/home2.png'
 //Styles
 import { About, Description, Image } from "../Style";
 import styled from "styled-components";

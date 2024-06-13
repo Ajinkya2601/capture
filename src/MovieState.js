@@ -1,9 +1,9 @@
-import athlete from "./img/athlete-small.png";
-import goodtimes from "./img/goodtimes-small.png";
-import theracer from "./img/theracer-small.png";
-import athlete2 from "./img/athlete2.png";
-import goodtimes2 from "./img/good-times2.jpg";
-import theracer2 from "./img/the-racer2.jpg";
+import athlete from "../public/img/athlete-small.png";
+import goodtimes from "../public/img/goodtimes-small.png";
+import theracer from "../public/img/theracer-small.png";
+import athlete2 from "../public/img/athlete2.png";
+import goodtimes2 from "../public/img/good-times2.jpg";
+import theracer2 from "../public/img/the-racer2.jpg";
 
 export const MovieState = () => {
   return [

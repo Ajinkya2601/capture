@@ -2,9 +2,9 @@ import React from "react";
 import styled from "styled-components";
 import { Link } from "react-router-dom";
 //Images
-import athlete from "../img/athlete-small.png";
-import theracer from "../img/theracer-small.png";
-import goodtimes from "../img/goodtimes-small.png";
+import athlete from "../../public/img/athlete-small.png";
+import theracer from "../../public/img/theracer-small.png";
+import goodtimes from "../../public/img/goodtimes-small.png";
 //Animations
 import { motion } from "framer-motion";
 import {
